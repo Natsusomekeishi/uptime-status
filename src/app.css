@@ -70,7 +70,7 @@ a {
 }
 
 #header .navi a:hover {
-  color: #4B9B5D;
+  color: #FD366D;
 }
 
 
@@ -140,7 +140,7 @@ a {
 
 #uptime .meta .status.ok {
   background-image: url(./assets/success.svg);
-  color: #28A745;
+  color: #FD366D;
 }
 
 #uptime .meta .status.down {
@@ -171,7 +171,7 @@ a {
 }
 
 #uptime .timeline i.ok {
-  background: #9FD8AC;
+  background: #fd6690;
 }
 
 #uptime .timeline i.none {
