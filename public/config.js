@@ -2,7 +2,7 @@
 window.Config = {
 
   // 站点名
-  SiteName: 'KFS服务器',
+  SiteName: 'KFS服务器状态',
 
   // 站点链接
   SiteUrl: '/',
@@ -24,7 +24,7 @@ window.Config = {
   ],
 
   // 是否显示监测站点的链接
-  ShowLink: true,
+  ShowLink: false,
 
   // 日志天数
   // 虽然免费版说仅保存60天日志，但测试好像API可以获取90天的
@@ -34,12 +34,12 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: 'Homepage',
-      url: 'https://status.org.cn/'
+      text: '官网',
+      url: 'https://hello.mckfs.com/'
     },
     {
-      text: 'GitHub',
-      url: 'https://github.com/yb/uptime-status'
+      text: '加入我们',
+      url: 'https://jq.qq.com/?_wv=1027&k=GOVFXLHN'
     }
   ]
 };
