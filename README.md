@@ -1,6 +1,6 @@
 # uptime-status
 
-一个基于 UptimeRobot API 的在线状态面板
+一个基于 UptimeRobot API 的在线状态面板.
 
 An uptime status dashboard based on UptimeRobot API
 
