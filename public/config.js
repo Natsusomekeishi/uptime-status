@@ -34,11 +34,15 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: '官网',
+      text: '	&#127800;官网',
       url: 'https://hello.mckfs.com/'
     },
     {
-      text: '加入我们',
+      text: '	&#127918;游戏实时状态',
+      url: 'https://hello.mckfs.com/Status.html'
+    },
+    {
+      text: '&#127752;加入我们',
       url: 'https://jq.qq.com/?_wv=1027&k=GOVFXLHN'
     }
   ]
